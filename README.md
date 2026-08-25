@@ -14,6 +14,11 @@ maintainers, each one closing a reported issue:
 - [Use the OS locale for the spellchecker language, with an override](https://github.com/nimbalyst/nimbalyst/pull/1256)
 - [Fix a broken IPC listener link in the state docs](https://github.com/nimbalyst/nimbalyst/pull/1206)
 
+### In build
+
+A few products are in build now, with releases expected in the next few months.
+Announcements will go here. Stay tuned.
+
 ### Available for
 
 Confirmed, reproducible bugs. We agree in writing what "fixed" means before I start,
