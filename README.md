@@ -14,12 +14,6 @@ maintainers, each one closing a reported issue:
 - [Use the OS locale for the spellchecker language, with an override](https://github.com/nimbalyst/nimbalyst/pull/1256)
 - [Fix a broken IPC listener link in the state docs](https://github.com/nimbalyst/nimbalyst/pull/1206)
 
-### Live
-
-- [AntGlow GIF Studio](https://gif.antglow.com) · turn a video into a GIF in the
-  browser, free, no upload
-- [My Turn](https://myturn.antglow.com) · typing built for being read by someone else
-
 ### Available for
 
 Confirmed, reproducible bugs. We agree in writing what "fixed" means before I start,
