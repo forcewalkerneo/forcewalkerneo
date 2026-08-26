@@ -5,8 +5,7 @@ TypeScript, React, Node, Electron.
 
 ### Merged open source
 
-Bug fixes merged into [Nimbalyst](https://github.com/nimbalyst/nimbalyst) by its
-maintainers, each one closing a reported issue:
+Bug fixes merged by project maintainers, each one closing a reported issue:
 
 - [Keep session-list relative time updating on idle sessions](https://github.com/nimbalyst/nimbalyst/pull/1207)
 - [Keep text selection from breaking during transcript auto-scroll](https://github.com/nimbalyst/nimbalyst/pull/1217)
@@ -14,10 +13,16 @@ maintainers, each one closing a reported issue:
 - [Use the OS locale for the spellchecker language, with an override](https://github.com/nimbalyst/nimbalyst/pull/1256)
 - [Fix a broken IPC listener link in the state docs](https://github.com/nimbalyst/nimbalyst/pull/1206)
 
-### In build
+### What I work on
 
-A few products are in build now, with releases expected in the next few months.
-Announcements will go here. Stay tuned.
+- Web applications, front to back. React, TypeScript, Node.
+- Sites and services on Cloudflare Workers and Pages, with custom domains, edge
+  caching and access control.
+- Linux servers set up and run end to end: DNS, TLS, reverse proxy, scheduled jobs,
+  SSH hardening.
+- Stripe payment flows, from checkout through to webhook handling and fulfilment.
+- AI agent orchestration and context engineering. Scheduled autonomous agents,
+  retrieval and memory design, conversational agents against production sites.
 
 ### Available for
 
