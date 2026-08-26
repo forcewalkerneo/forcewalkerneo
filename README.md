@@ -37,10 +37,14 @@ on, and it is the part I spend the most time on.
 
 ### Available for
 
-Confirmed, reproducible bugs at a fixed price agreed before I start. We agree in
-writing what "fixed" means first. You get a pull request with a passing test and a
-short written explanation of what was actually wrong. If it does not resolve the
-issue on review, I revise it once at no charge.
+**Builds.** Web applications and sites, payment integration, server setup and
+deployment, AI agents and automation. Scoped in writing before I start: what it
+does, what it does not do, what "done" means, and a fixed price.
+
+**Bug fixes.** Confirmed, reproducible bugs at a fixed price agreed before I start.
+We agree in writing what "fixed" means first. You get a pull request with a passing
+test and a short written explanation of what was actually wrong. If it does not
+resolve the issue on review, I revise it once at no charge.
 
 Written channels only. GitHub issues, PR threads, email.
 
