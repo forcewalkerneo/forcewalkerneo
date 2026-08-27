@@ -1,4 +1,4 @@
-## Neo
+## Mitchell LaFrance
 
 **Full-Stack Developer.** Web applications, bug fixing and maintenance.
 AI agent orchestration and context engineering.
